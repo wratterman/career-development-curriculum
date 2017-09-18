@@ -13,6 +13,7 @@ https://gist.github.com/wratterman/493b464a31341832a7ee73dd241e73be
 * Link to Trello Board with companies that are being tracked:
 https://trello.com/b/ovBMDFTY/job-tracker-board 
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/wratterman/ec21fd4d86a6464a8bbbf81454b5b169
 
 ## Mod 2 Deliverables:
 
